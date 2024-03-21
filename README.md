@@ -1,2 +1,4 @@
 # Face-Recognition-using-CNN
-Face Recognition of small dataset using Machine Learning (Resnet50)
+Face Recognition of small dataset using Deep Learning (CNN Algorithm)
+
+**Model Used: ResNet50**

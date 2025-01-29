@@ -1,6 +1,10 @@
 # Face-Recognition-using-CNN
 Face Recognition of small dataset using Deep Learning (CNN Algorithm)
 
+Dataset link: https://drive.google.com/drive/folders/1hCevUxdq9g6GzNoU4UOmrZj56Lj_4A2V?usp=sharing
+
+[please don't misuse any resources provided]
+
 **Model Used: ResNet50**
 
 # Result:
